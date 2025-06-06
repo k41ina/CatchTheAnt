@@ -18,7 +18,7 @@ Catch the Ant is a fast-paced, reaction-based mobile game where players must tap
 
 ## Project Overview
 
-Catch the Ant is a SwiftUI game designed to test and improve your reaction time. Once the game starts, players must remain alert. A randomized "Wait for it..." screen appears, followed by several bugs crawling across the screen—only one of them is the ant. Tapping the ant wins the game, but tapping the wrong bug results in a loss.
+Catch the Ant is a SwiftUI game designed to test and improve your reaction time. Once the game starts, players must remain alert. A randomized "Wait for it..." screen appears, followed by several bugs crawling across the screen-only one of them is the ant. Tapping the ant wins the game, but tapping the wrong bug results in a loss.
 
 The goal is simple: **spot the ant, tap it fast, and beat your high score!** Perfect for casual play or competitive friends trying to out-react each other.
 
